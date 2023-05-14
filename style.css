@@ -1,0 +1,301 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* NAVBAR */
+
+.navbar-brand {
+    margin-left: 70px;
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+
+.bran {
+    color: orange;
+    font-size: 1.1rem;
+}
+
+.navbar-nav {
+    margin-left: 45%;
+    font-size: 1.1rem;
+}
+
+.nav-link {
+    font-size: 1.3rem;
+    padding-right: 10px;
+    color: black;
+}
+
+.nav-link:hover {
+    color: orange;
+}
+
+
+/* topper */
+.hero-image {
+    background-image: url("01.png");
+    height: 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.head {
+    font-weight: bolder;
+    color: orange;
+    letter-spacing: 5px;
+    padding-bottom: 20px;
+}
+
+.wow {
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+.btn {
+    background-color: orange;
+    color: white;
+    border: 1px solid black;
+}
+
+/* aboutus */
+
+#aboutus {
+    margin-top: 3%;
+    text-align: center;
+}
+
+.join {
+    width: 100%;
+    height: 80%;
+}
+
+.vl {
+    border-left: 6px solid orange;
+    height: 90px;
+    padding-left: 10px;
+}
+
+.para{
+    padding-top: 30px;
+    color: orange;
+    font-weight: bold;
+  }
+
+.para1{
+    padding-top: 60px;
+    color: gray;
+}  
+
+.head1{
+    margin-bottom: 2%;
+}  
+
+.head2{
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+
+.icon3{
+    padding: 10px 8px 0 0;
+    font-size: 1.2rem;
+    color: orange;
+  }
+  
+  .new{
+    padding: 10px 6px  0 0;
+    color: black;
+    font-weight: bold;
+  }
+
+  /* project */
+
+#project{
+    margin-top: 4%;
+    background-color: #EAE3D2;
+    text-align: center;
+  }
+
+  .proj{
+    text-align: center;
+    padding-top: 30px;
+  }
+
+  .headi{
+    font-size: 1.6rem;
+  }
+  
+  .wow1{
+    color:orange;
+  }
+  
+  .wow10{
+   
+    padding: 20px 0 0 0;
+    display: flex;
+  }
+  
+  .but{
+    margin-left: 45%;
+  }
+  
+  .btn1{
+    border: 1px solid black;
+    padding: 8px;
+    background-color: orange;
+    color: white;
+  }
+  
+
+  
+  .build3{
+    padding: 20px 0 10px 0;
+  }
+  
+  .wow2{
+    color: orange;
+  }
+  
+  .wow3{
+    color: black;
+  }
+  
+
+  /* invest */
+
+#invest{
+    margin-top: 5%;
+  }
+  
+  .vl1{
+    border-left: 6px solid orange;
+    height: 100px;
+    padding-left: 15px;
+  }
+  
+  .img3{
+    width: 100%;
+    height: 90%;
+  }
+
+  .head4{
+    font-size: 1.3rem;
+    color: gray;
+  }
+  
+  .head5{
+    font-size: 1.4rem;
+    font-weight: bold;
+  }
+  
+  .dot{
+    color: orange;
+    font-weight: bold;
+  }
+  
+  .para3{
+    margin-top: 3%;
+    font-size: 1.2rem;
+    color: gray;
+  }
+  
+  .btn5{
+    font-weight: bold;
+    background-color: orange;
+    padding: 10px;
+    color: white;
+    border: none;
+    margin-bottom: 3%;
+  }
+
+  /* CONTACT */
+
+#ctc{
+    margin-top: 4%;
+background-color: orange;
+padding-bottom: 10px;
+}
+
+.rechanged{
+    padding: 100px 10px 10px 10px;
+    
+  }
+  
+  .change4{
+    border: 1px solid black;
+    margin-bottom: 3%;
+    width: 100%;
+    padding-left: 150px;
+    padding-top: 10px;
+  }
+  
+  .btn6{
+    background-color: black;
+    color: white;
+    padding: 5px 15px 0 15px;
+    border: none;
+  }
+  
+  .changed{
+    padding-top: 130px;
+  }
+  
+  .icon4{
+    color: red;
+    font-size: 1.2rem;
+    margin: 0 0 5% 0;
+  
+  }
+  
+  .awes{
+    margin-left: 20%;
+  }
+  
+  .reuse{
+    color: black;
+    font-size: 1.2rem;
+  }
+
+  /* footer */
+
+#footer{
+    text-align: center;
+    background-color: black;
+    height: 30vh;
+  }
+  
+  .icon{
+    padding-top: 50px;
+    padding-right: 20px;
+    font-size: 1.6rem;
+  }
+  
+  .icon1{
+    color: red;
+    padding-top: 50px;
+    padding-right: 20px;
+    font-size: 1.6rem;
+  }
+  
+ 
+  
+  .copyright{
+    padding-top: 20px;
+    color: gray;
+  }
